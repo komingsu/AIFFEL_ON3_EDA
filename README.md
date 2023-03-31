@@ -1,13 +1,13 @@
 # 황교수님’s 도비들
 
-데이터셋: 학생 음주 데이터셋
-분석 목표: 학생의 지덕체를 수양하기 이로운 환경 분석
-비고: 쭉 가
-제출 자료(GIt): https://github.com/komingsu/AIFFEL_ON3_EDA
-제출 자료(notion): https://www.notion.so/s-ff419b624ffc4df59581b5d33df98ec3
-팀 번호: 2 팀
-팀원: 장서현, 강가원
-팀장: 고민수
+* 데이터셋: 학생 음주 데이터셋
+* 분석 목표: 학생의 지덕체를 수양하기 이로운 환경 분석
+* 비고: 쭉 가
+* 제출 자료(GIt): https://github.com/komingsu/AIFFEL_ON3_EDA
+* 제출 자료(notion): https://www.notion.so/s-ff419b624ffc4df59581b5d33df98ec3
+* 팀 번호: 2 팀
+* 팀원: 장서현, 강가원
+* 팀장: 고민수
 
 # 지🧠, 덕🫂, 체🦿를 모두 가진 학생들의 환경 분석🔎
 
